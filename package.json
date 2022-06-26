@@ -1,0 +1,21 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1087.0",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.0",
+    "express.js": "^1.0.0",
+    "firebase": "^9.6.3",
+    "nodemon": "^2.0.15",
+    "stripe": "^8.214.0"
+  }
+}
